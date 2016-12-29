@@ -1,0 +1,9 @@
+..\obj\malloc.o: ..\MALLOC\malloc.c
+..\obj\malloc.o: ..\MALLOC\malloc.h
+..\obj\malloc.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\malloc.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+..\obj\malloc.o: D:\keil5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\malloc.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\obj\malloc.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\obj\malloc.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\obj\malloc.o: ..\SYSTEM\sys\system_stm32f4xx.h

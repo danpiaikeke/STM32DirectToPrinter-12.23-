@@ -1,0 +1,4 @@
+---- USB_OTG_GetEPStatus Matches (3 in 3 files) ----
+Usb_core.c (usb\stm32_usb_otg_driver\src):uint32_t USB_OTG_GetEPStatus(USB_OTG_CORE_HANDLE *pdev ,USB_OTG_EP *ep)
+Usb_core.h (usb\stm32_usb_otg_driver\inc):uint32_t     USB_OTG_GetEPStatus(USB_OTG_CORE_HANDLE *pdev ,USB_OTG_EP *ep);
+Usb_dcd.c (usb\stm32_usb_otg_driver\src):  Status = USB_OTG_GetEPStatus(pdev ,ep);

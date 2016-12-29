@@ -1,0 +1,17 @@
+..\obj\text.o: ..\TEXT\text.c
+..\obj\text.o: ..\SYSTEM\sys\sys.h
+..\obj\text.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\text.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+..\obj\text.o: D:\keil5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\text.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\obj\text.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\obj\text.o: D:\keil5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\obj\text.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\text.o: ..\TEXT\fontupd.h
+..\obj\text.o: ..\HARDWARE\W25QXX\w25qxx.h
+..\obj\text.o: ..\HARDWARE\LCD\lcd.h
+..\obj\text.o: D:\keil5\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\text.o: ..\TEXT\text.h
+..\obj\text.o: D:\keil5\ARM\ARMCC\bin\..\include\string.h
+..\obj\text.o: ..\SYSTEM\usart\usart.h
+..\obj\text.o: D:\keil5\ARM\ARMCC\bin\..\include\stdio.h

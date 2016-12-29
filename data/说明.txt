@@ -1,0 +1,4 @@
+打印机先发config后发next_nonak,可以成功打印
+input19，pc发送配置打印一次后，再次打印得到的数据
+注：
+next_nonak获取时，有2条512是nak，需要先剔除掉
